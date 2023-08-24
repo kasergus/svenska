@@ -1,0 +1,41 @@
+| Bestämd form       | Obestämd form    | Plural         |
+| ------------------ | ---------------- | -------------- |
+| en perrong         | perrongen        | perronger      |
+| en flykting        | flyktingen       | flyktingar     |
+| en namnlapp        | namnlappen       | namnlappar     |
+| en dam             | damen            | damer          |
+| en röra            | röran            | röror          |
+| en famn            | famnen           | famnar         |
+| en klunga          | klungan          | klungor        |
+| en lista           | lista            | listor         |
+| ett slott          | slottet          | slott          |
+| en röst            | rösten           | röster         |
+| en fiskebåt        | fiskebåten       | fiskebåtar     |
+| på ett land        | på ett landet    | på länder      |
+| ett fisknät        | fisknätet        | fisknät        |
+| en kofta           | koftan           | koftor         |
+| en sjal            | sjalen           | sjalar         |
+| en pakethållare    | pakethållaren    | pakethållare   |
+| en tant            | tanten           | tanter         |
+| en knut            | knuten           | knutar         |
+| en stackare        | stackaren        | stackare       |
+| en grind           | grinden          | grindar        |
+| en flytt           | flytten          | flyttar        |
+| ett hål            | hålet            | hål            |
+| ett tillstånd      | tillståndet      | tillstånd      |
+| en ångbåt          | ångbåten         | ångbåtar       |
+| en kaj             | kajen            | kajer          |
+| en skorsten        | skorstenen       | skorstenar     |
+| en strand          | stranden         | stränder       |
+| ett korallhalsband | korallhalsbandet | korallhalsband |
+| en klippa          | klippan          | klippor        |
+| en backe           | backen           | backar         |
+| en brygga          | bryggan          | bryggor        |
+| en roddbåt         | roddbåten        | roddbåtar      |
+| en gudinna         | gudinnan         | gudinnor       |
+| en dagbok          | dagboken         | dagböcker      |
+| ett smyckeskrin    | smyckeskrinet    | smyckeskrin    |
+| en nallebjörn      | nallebjörnen     | nallebjörnar   |
+| en doft            | doften           | dofter         |
+| ett steg           | steget           | steg           |
+| ett ögonblick      | ögonblicket      | ögonblick               |
