@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: 👋🏼 Welcome to the conspect!
 ---
 
 # Need answers?
