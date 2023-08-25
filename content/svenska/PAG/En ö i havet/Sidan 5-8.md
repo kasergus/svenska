@@ -1,3 +1,5 @@
+## Substantiv
+
 | Bestämd form       | Obestämd form    | Plural         |
 | ------------------ | ---------------- | -------------- |
 | en perrong         | perrongen        | perronger      |
@@ -38,4 +40,48 @@
 | en nallebjörn      | nallebjörnen     | nallebjörnar   |
 | en doft            | doften           | dofter         |
 | ett steg           | steget           | steg           |
-| ett ögonblick      | ögonblicket      | ögonblick               |
+| ett ögonblick      | ögonblicket      | ögonblick      |
+
+## Verb
+| Infinitiv  | Presens     | Preterium   |
+| ---------- | ----------- | ----------- |
+| gnälla     | gnäller     | gnällde     |
+| längta     | längtar     | längtade    |
+| vända      | vänder      | vände       |
+| krama      | kramar      | kramade     |
+| grina      | grinar      | grinade     |
+| svälja     | sväljer     | svalde      |
+| darra      | darrar      | darrade     |
+| pipa       | piper       | pep         |
+| låtsas     | låtsas      | låtsades    |
+| rusa       | rusar       | rusade      |
+| niga       | niger       | neg         |
+| härma      | härmar      | härmade     |
+| knäppa     | knäpper     | knäppte     |
+| hälla      | häller      | hällde      |
+| sköta      | sköter      | skötte      |
+| verka      | verkar      | verkade     |
+| falla      | faller      | föll        |
+| värka      | värker      | värkte      |
+| gömma      | gömmer      | gömde       |
+| låta       | låter       | lät         |
+| riva       | river       | rev         |
+| flyta      | flyter      | flöt        |
+| stoppa     | stoppar     | stoppade    |
+| äga        | äger        | ägde        |
+| få         | får         | fick        |
+| synas      | synes       | syntes      |
+| synas      | syns        | syntes      |
+| gunga      | gungar      | gungade     |
+| må         | mår         | mådde       |
+| böja       | böjer       | böjde       |
+| kräkas     | kräks       | kräktes     |
+| snurra     | snurrar     | snurrade    |
+| ta hand om | tar hand om | tog hand om |
+| klappa     | klappar     | klappade    |
+| klamra     | klamrar     | klamrade    |
+| klippa     | klipper     | klippte     |
+| kämpa      | kämpar      | kämpade     |
+| guppa      | guppar      | guppade     |
+| resa sig   | reser sig   | reste sig   |
+| luta       | lutar       | lutade      |
