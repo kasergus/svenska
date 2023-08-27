@@ -85,3 +85,28 @@
 | guppa      | guppar      | guppade     |
 | resa sig   | reser sig   | reste sig   |
 | luta       | lutar       | lutade      |
+
+
+## Other
+
+| Adverb    |
+| --------- |
+| sjösjuk   |
+| underlig  |
+| främmande |
+| ängslig   |
+| van       |
+| våt       |
+| nyfiken   |
+| oändlig   |
+| enkel     |
+
+
+| Resten      |
+| ----------- |
+| strax       |
+| fast        |
+| inuti       |
+| längs       |
+| fortfarande |
+| utanpå      |
