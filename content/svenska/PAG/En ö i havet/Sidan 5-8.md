@@ -9,7 +9,7 @@
 | en röra            | röran            | röror          |
 | en famn            | famnen           | famnar         |
 | en klunga          | klungan          | klungor        |
-| en lista           | lista            | listor         |
+| en lista           | listan           | listor         |
 | ett slott          | slottet          | slott          |
 | en röst            | rösten           | röster         |
 | en fiskebåt        | fiskebåten       | fiskebåtar     |
@@ -102,7 +102,7 @@
 | enkel     |
 
 
-| Resten      |
+| Adjective   |
 | ----------- |
 | strax       |
 | fast        |
