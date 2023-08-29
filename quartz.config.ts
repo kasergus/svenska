@@ -31,9 +31,9 @@ const config: QuartzConfig = {
         darkMode: {
           light: "#24273a",  // base 
           lightgray: "#494d64",  // surface1 
-          gray: "#cad3f5",
-          darkgray: "#cad3f5",  //text
-          dark: "#cad3f5",
+          gray: "#b7bdf8",  // lavender
+          darkgray: "#cad3f5",  // text
+          dark: "#b7bdf8",  // lavender
           secondary: "#8aadf4",
           tertiary: "#8bd5ca",
           highlight: "#363a4f",
