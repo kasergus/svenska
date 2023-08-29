@@ -30,7 +30,7 @@ const config: QuartzConfig = {
         },
         darkMode: {
           light: "#24273a",  // base 
-          lightgray: "#8087a2", // overlay1
+          lightgray: "#494d64", // surface1 
           gray: "#cad3f5",
           darkgray: "#cad3f5",  //text
           dark: "#cad3f5",
