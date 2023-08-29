@@ -13,9 +13,9 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates"],
     theme: {
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "JetBrains Mono",
+        body: "JetBrains Mono",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
@@ -30,9 +30,9 @@ const config: QuartzConfig = {
         },
         darkMode: {
           light: "#24273a",  // base 
-          lightgray: "#cad3f5", // text
+          lightgray: "#8087a2", // overlay1
           gray: "#cad3f5",
-          darkgray: "#cad3f5",
+          darkgray: "#cad3f5",  //text
           dark: "#cad3f5",
           secondary: "#8aadf4",
           tertiary: "#8bd5ca",
