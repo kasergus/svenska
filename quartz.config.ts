@@ -32,11 +32,11 @@ const config: QuartzConfig = {
           light: "#24273a",  // base 
           lightgray: "#cad3f5", // text
           gray: "#cad3f5",
-          darkgray: "cad3f5",
+          darkgray: "#cad3f5",
           dark: "#cad3f5",
-          secondary: "#cad3f5",
-          tertiary: "#cad3f5",
-          highlight: "#cad3f5",
+          secondary: "#8aadf4",
+          tertiary: "#8bd5ca",
+          highlight: "#363a4f",
         },
       },
     },
